@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EditorDiscordRichPresence.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\dn0_2\Documents\Plugin\EditorDiscordRichPresence_Files\5.0\EditorDiscordRichPresence\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\dn0_2\Documents\Plugin\EditorDiscordRichPresence_Files\5.0\EditorDiscordRichPresence\HostProject\Plugins\EditorDiscordRichPresence\Intermediate\Build\Win64\UnrealEditor\Development\EditorDiscordRichPresence\Module.EditorDiscordRichPresence.cpp.obj"
+"D:\dn0_2\Documents\Plugin\EditorDiscordRichPresence_Files\5.0\EditorDiscordRichPresence\HostProject\Plugins\EditorDiscordRichPresence\Intermediate\Build\Win64\UnrealEditor\Development\EditorDiscordRichPresence\Default.rc2.res"
+/OUT:"D:\dn0_2\Documents\Plugin\EditorDiscordRichPresence_Files\5.0\EditorDiscordRichPresence\HostProject\Plugins\EditorDiscordRichPresence\Intermediate\Build\Win64\UnrealEditor\Development\EditorDiscordRichPresence\UnrealEditor-EditorDiscordRichPresence.lib"
